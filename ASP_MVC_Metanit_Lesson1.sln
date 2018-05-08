@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_MVC_Metanit_Lesson1", "ASP_MVC_Metanit_Lesson1\ASP_MVC_Metanit_Lesson1.csproj", "{75A479D5-090C-4EEE-BD17-F1F568037338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A479D5-090C-4EEE-BD17-F1F568037338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A479D5-090C-4EEE-BD17-F1F568037338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A479D5-090C-4EEE-BD17-F1F568037338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A479D5-090C-4EEE-BD17-F1F568037338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A0AF2A-F5C5-4806-81B0-BA8972ABFD04}
+	EndGlobalSection
+EndGlobal
